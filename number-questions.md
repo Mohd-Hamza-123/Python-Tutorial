@@ -38,3 +38,25 @@
 
 10. **Subtract 2/3 from 5/6 using fractions.**
     ✅ **Output:** `1/6`
+
+
+11. The average height of students is **5.6789 meters**.
+    Round it to **2 decimal places**.
+    ✅ **Output:** `5.68`
+
+12. A student scored **56**, **78**, and **92** in three subjects.
+    Find the **highest score**.
+    ✅ **Output:** `92`
+
+13. Using the same marks (**56**, **78**, **92**), find the **lowest score**.
+    ✅ **Output:** `56`
+
+14. A builder needs **4.3 liters** of paint for one wall.
+    Find how many **full liters** he should buy.
+    ✅ **Output:** `5`
+
+15. The price of an item is **₹199.5678**.
+    Show the price up to **2 decimal places**.
+    ✅ **Output:** `199.57`
+
+
