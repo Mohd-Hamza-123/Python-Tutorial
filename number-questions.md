@@ -20,7 +20,7 @@
    ✅ **Output:** `6.13m` (approx. 6.1m)
 
 5. **Write a Python program to calculate the area of a circle.**
-   Formula: `area = π × r²` (use `math.pi` for π, take r = 7)
+   Formula: `area = π × r²` (take r = 7)
    ✅ **Output:** `153.94` (approx. 153.9)
 
 6. **Find the square root of 144.**
@@ -31,7 +31,7 @@
    ✅ **Output:** `31.42`
 
 8. **Calculate 5³.**
-   ✅ **Output:** `125.0` (using `math.pow(5, 3)`)
+   ✅ **Output:** `125`
 
 9. **Add two fractions:** 1/2 and 3/4.
    ✅ **Output:** `5/4` (or `1 1/4`)
