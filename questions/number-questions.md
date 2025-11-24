@@ -1,0 +1,62 @@
+
+
+## 🧮 **Python Practice Questions (Variables, Numbers, Math & Fractions)**
+
+1. **Write a Python program to find the area of a rectangle.**
+   Formula: `area = length × width`
+   (Take length = 10, width = 5)
+   ✅ **Output:** `50`
+
+2. **A car travels 240 km in 4 hours.** Write a Python program to find its average speed.
+   Formula: `speed = distance / time`
+   ✅ **Output:** `60`
+
+3. **The temperature in Celsius is 30°C.** Convert it to Fahrenheit using the formula:
+   `F = (C × 9/5) + 32`
+   ✅ **Output:** `86.0`
+
+4. **Find the average height of three students:** 6m, 5.4m, and 7m.
+   Formula: `(6 + 5.4 + 7) / 3`
+   ✅ **Output:** `6.13m` (approx. 6.1m)
+
+5. **Write a Python program to calculate the area of a circle.**
+   Formula: `area = π × r²` (take r = 7)
+   ✅ **Output:** `153.94` (approx. 153.9)
+
+6. **Find the square root of 144.**
+   ✅ **Output:** `12.0`
+
+7. **Find the circumference of a circle with radius 5.**
+   Formula: `C = 2 × π × r`
+   ✅ **Output:** `31.42`
+
+8. **Calculate 5³.**
+   ✅ **Output:** `125`
+
+9. **Add two fractions:** 1/2 and 3/4.
+   ✅ **Output:** `5/4` (or `1 1/4`)
+
+10. **Subtract 2/3 from 5/6 using fractions.**
+    ✅ **Output:** `1/6`
+
+
+11. The average height of students is **5.6789 meters**.
+    Round it to **2 decimal places**.
+    ✅ **Output:** `5.68`
+
+12. A student scored **56**, **78**, and **92** in three subjects.
+    Find the **highest score**.
+    ✅ **Output:** `92`
+
+13. Using the same marks (**56**, **78**, **92**), find the **lowest score**.
+    ✅ **Output:** `56`
+
+14. A builder needs **4.3 liters** of paint for one wall.
+    Find how many **full liters** he should buy.
+    ✅ **Output:** `5`
+
+15. The price of an item is **₹199.5678**.
+    Show the price up to **2 decimal places**.
+    ✅ **Output:** `199.57`
+
+
