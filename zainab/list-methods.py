@@ -37,3 +37,36 @@ print("new phoneno" , phone_no)
 colors_options = ["Crimson","Pink","Green"]
 color_options.clear()
 print("color options : ",color_options)
+
+# index()
+
+colors = ["Crimson","Pink","Green"]
+
+index_of_pink = colors.index("Green")
+print("index of pink",index_of_pink)
+
+# count()
+
+my_list = [1, 2, 3, 2, 2, 4,"2"]
+c = my_list.count("2")
+print(c)
+
+# sort 
+
+my_list = [5, 2, 9, 1, -3,3,53,5,5]
+my_list.sort() # ascending
+print(my_list)
+my_list.sort(reverse=True)  # descending
+print(my_list)
+
+# reverse 
+
+size_options = ["SM","MD","XL", "XXL"] 
+size_options.reverse()
+print(size_options)
+
+# pop 
+
+hh = [999, 333, 111, 222, 444]
+hh.pop()
+print(hh)
