@@ -32,3 +32,18 @@
    * It is divisible by 4 and not divisible by 100
 
 2. Write a program to check wether the last digit of a number (input by user) is even or odd ?
+
+3. Check if a given string is palindrome or not. 
+
+4. Remove duplicate from a list. 
+
+5. Input and email.
+
+   * email should have only one '@'
+   * no spaces allowed 
+   * final email should be in lower case
+
+6. check if a number is decimal or not. 
+
+
+   
