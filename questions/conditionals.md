@@ -23,3 +23,12 @@
     * if length < 3 → reject
     * if contains spaces → reject
     * else accept
+
+## Level : Moderate 
+
+1. Given a year, determine if it is a leap year.
+   Rules For leap year :
+   * It is divisible by 400
+   * It is divisible by 4 and not divisible by 100
+
+2. 
