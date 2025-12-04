@@ -31,4 +31,4 @@
    * It is divisible by 400
    * It is divisible by 4 and not divisible by 100
 
-2. 
+2. Write a program to check wether the last digit of a number (input by user) is even or odd ?
